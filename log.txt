@@ -1,0 +1,3221 @@
+
+
+
+=====================
+
+API Reponse Email Already Exists! 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet@utcdigital.com
+User Phone: 09284642992
+User Gender: 1
+User Date of Birth: 2023-12-15
+User Street Address: 01, AB Road, CD Area
+User Address 2: Test
+User City: 1
+User State: 1
+User ZIP: 400055
+User Country: 6
+User Education: 2
+User Languages: 1006, 1007
+User Experience: 1
+Countries Worked: 2, 6
+Cover Letter: 
+User CV: 
+User Profile Image: 
+User SKills Individuals: 3, 4
+Form ID: 626
+Entry ID: 756
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Email Already Exists! 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet@utcdigital.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 2
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/sample.pdf
+User Profile Image: http://eosrisk.critical.media/wp-content/uploads/2023/12/select-5.svg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 757
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+                        <a href="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=I6eQChFN6d7uxVcprdORqFltBO9Wz-EGWvy2SfgqM0o"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet@utcdigital.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 2
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/sample-1.pdf
+User Profile Image: http://eosrisk.critical.media/wp-content/uploads/2023/12/select-6.svg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 761
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet38643784@gmail.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 2
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: 
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 767
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet4563@gmail.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/sample-1.pdf
+User Profile Image: http://eosrisk.critical.media/wp-content/uploads/2023/12/select.svg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 768
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+                        <a href="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=I6eQChFN6d7uxVcprdORqFltBO9Wz-EGWvy2SfgqM0o"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet301@gmail.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 2
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/sample-1-3.pdf
+User Profile Image: http://eosrisk.critical.media/wp-content/uploads/2023/12/select-3.svg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 771
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+                        <a href="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=I6eQChFN6d7uxVcprdORqFltBO9Wz-EGWvy2SfgqM0o"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeet304@gmail.com
+User Phone: 09284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 400055
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/sample-1-4.pdf
+User Profile Image: http://eosrisk.critical.media/wp-content/uploads/2023/12/select-4.svg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 772
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=====================
+
+CURL Error: operation aborted by callback 
+User CV: 
+First Name: dfgfdg
+Last Name: sdggdf
+User Email: dfgfd@dfgdf.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-15.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 794
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: dfgfdg
+Last Name: sdggdf
+User Email: dfgfd@dfgdf.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-16.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 795
+
+
+
+=========
+
+
+
+
+
+=====================
+
+CURL Error: operation aborted by callback 
+User CV: 
+First Name: dfgfdg
+Last Name: sdggdf
+User Email: dfgfd@dfgdf.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-17.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 796
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: erewrr
+Last Name: wree
+User Email: erewr@jbhdfd.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-18.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 797
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Email Already Exists! 
+User CV: 
+First Name: erewrr
+Last Name: wree
+User Email: erewr@jbhdfd.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-19.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 798
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: sdfdsf
+Last Name: dfds
+User Email: sdfsdf@jhdd.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-20.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 799
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="/Customer/Index" data-submenu="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+
+                        <a href="/Customer/Index" data-submenu="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=MiqVJVTLz_boiDzUo1L65iS9P3QEPIMp_77kcgGk5tY"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: dsfdsfsf
+Last Name: sfsdfsf
+User Email: dsfsdf@sfsdfds.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-21.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 804
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="/Customer/Index" data-submenu="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+
+                        <a href="/Customer/Index" data-submenu="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=MiqVJVTLz_boiDzUo1L65iS9P3QEPIMp_77kcgGk5tY"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: xcvcxvcxv
+Last Name: xcvvcxv
+User Email: cxvxc@dfdff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-22.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 806
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <title>Error - CMS.Web.API.Application</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/font/iconsmind-s/css/iconsminds.css" />
+    <link rel="stylesheet" href="/font/simple-line-icons/css/simple-line-icons.css" />
+    <link rel="stylesheet" href="/css/vendor/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="/css/vendor/bootstrap-float-label.min.css" />
+    <link rel="stylesheet" href="/css/vendor/component-custom-switch.min.css" />
+    <link rel="stylesheet" href="/css/vendor/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" href="/css/vendor/datatables.responsive.bootstrap4.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.8/css/rowReorder.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/css/dore.light.redruby.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="/css/print.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=715f95a3-8dcd-433c-ba92-61560df8bbc0;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="app-container" class="menu-sub-hidden show-spinner">
+    <nav class="navbar fixed-top">
+        <div class="d-flex align-items-center navbar-left">
+            <a href="#" class="menu-button d-none d-md-block">
+                <svg class="main" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 17">
+                    <rect x="0.48" y="0.5" width="7" height="1" />
+                    <rect x="0.48" y="7.5" width="7" height="1" />
+                    <rect x="0.48" y="15.5" width="7" height="1" />
+                </svg>
+                <svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17">
+                    <rect x="1.56" y="0.5" width="16" height="1" />
+                    <rect x="1.56" y="7.5" width="16" height="1" />
+                    <rect x="1.56" y="15.5" width="16" height="1" />
+                </svg>
+            </a>
+
+            <a href="#" class="menu-button-mobile d-xs-block d-sm-block d-md-none">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 17">
+                    <rect x="0.5" y="0.5" width="25" height="1" />
+                    <rect x="0.5" y="7.5" width="25" height="1" />
+                    <rect x="0.5" y="15.5" width="25" height="1" />
+                </svg>
+            </a>
+
+
+
+        </div>
+
+        <a class="navbar-logo" href="/User">
+            <span class="logo d-none d-xs-block"></span>
+            <span class="logo-mobile d-block d-xs-none"></span>
+        </a>
+
+        <div class="navbar-right ml-auto">
+
+            <div class="user d-inline-block">
+                <button class="btn btn-empty p-0" type="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                    <span class="name"></span>
+                    <span>
+                        <img alt="Profile Picture" src="/img/profiles/1.jpg" />
+                    </span>
+                </button>
+
+                <div class="dropdown-menu dropdown-menu-right mt-3">
+
+                    <a class="dropdown-item" href="/">Sign out</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <div class="main-menu">
+            <div class="scroll">
+                <ul class="list-unstyled">
+
+                    <li>
+                        <a href="/Customer/Index" data-submenu="#blankpage">
+                            <i class="iconsminds-user"></i>
+                            TALENT
+                        </a>
+
+                        <a href="/Customer/Index" data-submenu="#provider">
+                            <i class="iconsminds-user"></i>
+                            PROVIDER
+                        </a>
+
+                        <a href="/EmailTemplate/Manage">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            EMAIL TEMPLATE
+                        </a>
+                       
+                        <a href="/User/Index">
+                            <i class="iconsminds-administrator"></i>
+                            USER
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+               
+            </div>
+        </div>
+
+        <div class="sub-menu">
+            <div class="scroll">
+                <ul class="list-unstyled" data-link="blankpage">
+                    <li>
+                        <a href="/Customer/Manage">
+                            Add New Talent
+                        </a>
+                        <a href="/Customer/New">
+                            New Talent
+                        </a>
+
+                        <a href="/Customer/Active">
+                            Active Talent
+                        </a>
+                        <a href="/Customer/Archive">
+                            Archive Talent
+                        </a>
+                        <a href="/Customer/Index">
+                            All Talent
+                        </a>
+                    </li>
+
+                </ul>
+                <ul class="list-unstyled" data-link="provider">
+                    <li>
+                        <a href="/Provider/Manage">
+                            Add New Provider
+                        </a>
+                        <a href="/Provider/Archive">
+                            Archive Provider
+                        </a>
+                        <a href="/Provider/Active">
+                            Active Provider
+                        </a>
+                        <a href="/Provider/Index">
+                            All Provider
+                        </a>
+                    </li>
+                </ul>
+</div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container-fluid">
+
+
+            
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+
+        </div>
+    </main>
+
+    <footer class="page-footer">
+        <div class="footer-content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p class="mb-0">
+                            EOS Risk Group | Powered by<a href="https://criticalmedia.co.uk/" target="_blank" style="background:#fff;padding: 4px 5px;margin: 0 5px;border-radius: 2px;font-weight: bold;font-family: 'Josefin Sans', sans-serif;">
+                                <span style="color:#292663;">critical.media</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 d-none d-sm-block">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="/js/vendor/perfect-scrollbar.min.js"></script>
+    <script src="/js/vendor/mousetrap.min.js"></script>
+    <script src="/js/vendor/datatables.min.js"></script>
+    <script src="/js/dore.script.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="/js/scripts.js"></script>
+    <script src="/js/site.js?v=MiqVJVTLz_boiDzUo1L65iS9P3QEPIMp_77kcgGk5tY"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+        setTimeout(function () { $("#successMessage").fadeOut(); }, 5000);
+    </script>
+    
+    <script>
+        $("#txtDate").datepicker({ dateFormat: 'yy-mm-dd', minDate: 0 });
+
+
+        $('#txtDate').hover(function () {
+            $(this).css('cursor', 'pointer');
+        });
+
+
+    </script>
+
+</body>
+</html>
+
+ 
+User CV: 
+First Name: xcvcxvcxv
+Last Name: xcvvcxv
+User Email: cxvxc@dfdff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-23.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 807
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: xcvcxvcxv
+Last Name: xcvvcxv
+User Email: cxvxc@dfdff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-24.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 808
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: xcvcxvcxv
+Last Name: xcvvcxv
+User Email: cxvxc@dfdff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-25.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 809
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: xcvcxvcxv
+Last Name: xcvvcxv
+User Email: cxvxc@dfdff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: http://eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-26.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 810
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Patel
+Last Name: Sandeep
+User Email: sandeep@patel.com
+User Phone: 0987654321
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-27.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-11-05-at-12.31.14-PM.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 811
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Email Already Exists! 
+User CV: 
+First Name: Patel
+Last Name: Sandeep
+User Email: sandeep@patel.com
+User Phone: 0987654321
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-28.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-11-05-at-12.31.14-PM-1.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 812
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: sdfdsf
+Last Name: dsfdsf
+User Email: sdfs@Jhff.com
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-29.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/8fb048cd-348b-4716-bcdc-2e4e8b34e787.jpg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 813
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Rathod
+Last Name: Sourabh
+User Email: sourabh@rathod.com
+User Phone: 0987654321
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-30.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-11-05-at-12.31.14-PM-2.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 814
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-8e2a4caf4a2cfd4096dbc1eb7f30528d-a0f8fc1642d04747-00","errors":{"Email":["The Email Address field is required."],"LastName":["The Last Name field is required."],"FirstName":["The First Name field is required."]}} 
+User CV: 
+First Name: 
+Last Name: 
+User Email: 
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/sample.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-10-10-at-11.24.49-AM.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 815
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Ankit
+Last Name: Gupta
+User Email: ankit@gupta.com
+User Phone: 0987654321
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-31.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-11-05-at-12.31.14-PM-3.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 820
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: qwerty
+Last Name: qwert
+User Email: qwert@Jhdd.com
+User Phone: 098765432
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: 
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 822
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Karan
+Last Name: Kundra
+User Email: karan@kundra.com
+User Phone: 0987654321
+User Gender: 1
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/JohnDOeResume-32.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/WhatsApp-Image-2023-11-05-at-12.31.14-PM-4.jpeg
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 823
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Tiwari
+Last Name: Sakshi
+User Email: graspc90orn@criticalmedia.co.uk
+User Phone: 8962537774
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: a
+User Address 2: 
+User City: 1
+User State: 1
+User ZIP: 3435
+User Country: 6
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/8409932792.pdf
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 824
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Ajeet
+Last Name: Test
+User Email: ajeetutc401@gmail.com
+User Phone: 09284642992
+User Gender: 1
+User Date of Birth: 2023-12-27
+User Street Address: 01, AB Road, CD Area
+User Address 2: 
+User City: 1
+User State: 1
+User ZIP: 400055
+User Country: 6
+User Education: 2
+User Languages: 2, 1005, 1006
+User Experience: 1
+Countries Worked: 2, 6
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/sample-6.pdf
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/smart_sell.svg
+User SKills Individuals: 3, 4
+Form ID: 626
+Entry ID: 825
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-e30e01662e5beb4d85a4c56a7e660358-8968b5597ed2c248-00","errors":{"Email":["The Email Address field is required."],"LastName":["The Last Name field is required."],"FirstName":["The First Name field is required."]}} 
+User CV: 
+First Name: 
+Last Name: 
+User Email: 
+User Phone: 
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 6
+User Education: 2
+User Languages: 1005, 1007, 1016
+User Experience: 2
+Countries Worked: 2, 6
+Cover Letter: 
+User CV: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/smart_sell-1.svg
+User Profile Image: /home/critical/eosrisk.critical.media/wp-content/uploads/2023/12/sample-7.pdf
+User SKills Individuals: 2, 3
+Form ID: 626
+Entry ID: 826
+
+
+
+=========
+
+
+
+
+
+=====================
+
+API Reponse Customer created successfully! 
+User CV: 
+First Name: Ajeet
+Last Name: K
+User Email: ajeetutc402@gmail.com
+User Phone: 9284642992
+User Gender: 2
+User Date of Birth: 1970-01-01
+User Street Address: 
+User Address 2: 
+User City: 
+User State: 
+User ZIP: 
+User Country: 
+User Education: 
+User Languages: null
+User Experience: 
+Countries Worked: null
+Cover Letter: 
+User CV: 
+User Profile Image: 
+User SKills Individuals: null
+Form ID: 626
+Entry ID: 827
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
+
+
+
+=========
+
+
